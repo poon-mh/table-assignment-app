@@ -1,0 +1,5 @@
+streamlit
+streamlit-dnd-list
+pandas
+openpyxl
+xlsxwriter
